@@ -25,7 +25,7 @@ jobs:
         run: pip install selenium requests futures eventlet
 
       - name: Run tkty
-        run: python ${{ github.workspace }}/iptvzby.py
+        run: python ${{ github.workspace }}/tkty.py
 
       - name: 提交更改
         run: |
