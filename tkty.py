@@ -49,7 +49,12 @@ with open("sport.txt", "w", encoding="utf-8") as output_file:
         output_file.write(f"{group_name},#genre#\n")
         for link in links:
             output_file.write(f"{link}\n")
-
+            
+with open("sport.txt", "a", encoding="utf-8") as output:  # 使用 "a" 模式以追加方式打开文件
+    now = datetime.now()  # 这一行的缩进应与上一行的 with 语句对齐
+    output.write(f"更新时间,#genre#\n")
+    output.write(f"{now.strftime('%Y-%m-%d')},url\n")
+    output.write(f"{now.strftime('%H:%M:%S')},url\n")
 
 def txt_to_m3u(input_file, output_file):
     # 读取txt文件内容
@@ -82,4 +87,4 @@ def txt_to_m3u(input_file, output_file):
 # 将txt文件转换为m3u文件
 txt_to_m3u('sport.txt', 'sport.m3u')
 
-print("任务运行完毕，分类频道列表可查看文件夹内iptv_list.txt和iptv_list.m3u文件！")
+print("任务运行完毕，分类频道列表可查看文件夹内sport.txt和sport.m3u文件！")
