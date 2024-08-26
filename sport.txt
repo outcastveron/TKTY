@@ -508,4 +508,4 @@ UK| UFC TV (Events2),http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:e
 UK| UFC HD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=825538&extension=ts&play_token=1EpIll7Lg8
 更新时间,#genre#
 2024-08-26,url
-13:46:12,url
+14:16:01,url
