@@ -289,7 +289,21 @@ SKY SPORT MIX,http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7339/index.m3u8
 SKY SPORTS RACING,http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7341/index.m3u8
 SKY SPORTS ARENA,http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7338/index.m3u8
 SKY SPORTS CRICKET,http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7343/index.m3u8
-EU PORTUGAL,#genre#
+🪂天空体育 𝟛🪂,#genre#
+UK| SKY SPORTS MAIN EVENT FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=30496&extension=ts&play_token=UEYjKXGWpn
+UK| SKY SPORTS F1 FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=30499&extension=ts&play_token=pi9mqM1YpI
+UK| SKY SPORTS PREMIER LEAGUE,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=30493&extension=ts&play_token=w1FtDYY03P
+UK| SKY SPORTS FOOTBALL FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=30498&extension=ts&play_token=DjheaTJ2Z8
+UK| SKY SPOIRTS TENNIS FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=1454232&extension=ts&play_token=8JpwX6XZag
+UK| SKY SPORTS ACTION FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=30501&extension=ts&play_token=0tvcrLZJgX
+UK| SKY SPORTS ARENA FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=30500&extension=ts&play_token=brXDkCHbMM
+UK| SKY SPORTS CRICKET FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=30502&extension=ts&play_token=1IDkz2TO0c
+UK| SKY SPORTS GOLF FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=30497&extension=ts&play_token=s7Hyw3S48q
+UK| SKY SPORTS MIX FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=30495&extension=ts&play_token=Asvhoal2x3
+UK| SKY SPORTS NEWS FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=30494&extension=ts&play_token=UtNH6LpgdL
+UK| SKY SPORTS RACING FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=77373&extension=ts&play_token=OlfFFUtDRO
+UK| SKY SPORTS ACTION FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=929003&extension=ts&play_token=TURyff8Qcn
+🛡ELEVEN体育🛡,#genre#
 ELEVEN SPORTS 4K [葡语],http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/20068/index.m3u8
 ELEVEN SPORTS 1 [葡语],http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/2531/index.m3u8
 ELEVEN SPORTS 2 [葡语],http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/2532/index.m3u8
@@ -314,6 +328,14 @@ BEIN SPORTS 5 [英语],http://sansat.org:88/npThEesOShvRfhX/D8hoFAbUb3vTgEo/1022
 BEIN SPORTS 6 [英语],http://sansat.org:88/npThEesOShvRfhX/D8hoFAbUb3vTgEo/102212
 BEIN SPORTS 7 [英语],http://sansat.org:88/npThEesOShvRfhX/D8hoFAbUb3vTgEo/102213
 🦉TNT体育🦉,#genre#
+UK| TNT ULTIMATE 4K,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=1379047&extension=ts&play_token=SOU1ggjIDH
+UK| TNT BOX OFFICE FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=1019933&extension=ts&play_token=XgDKUHsnKo
+UK| TNT SPORTS ESPN FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=30564&extension=ts&play_token=YPnkBFdFWV
+UK| TNT SPORTS 1 FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=30567&extension=ts&play_token=vo0Ji6ysK4
+UK| TNT SPORTS 2 FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=30566&extension=ts&play_token=aEE87WCaaJ
+UK| TNT SPORTS 3 FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=30565&extension=ts&play_token=rIb3bfNHIa
+UK| TNT SPORTS 4 FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=1019935&extension=ts&play_token=74wzFtDZwW
+UK| TNT SPORTS 5 FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=1004548&extension=ts&play_token=uEqRDyn6uu
  TNT SPORTS 1 [英语],http://mohdtv.com:8880/voby3837/28337929/28946
  TNT SPORTS 2 [英语],http://mohdtv.com:8880/voby3837/28337929/28945
  TNT SPORTS 3 [英语],http://mohdtv.com:8880/voby3837/28337929/28943
@@ -322,28 +344,28 @@ TNT SPORTS 5 [英语],http://mohdtv.com:8880/voby3837/28337929/28941
 TNT SPORTS 6 [英语],http://mohdtv.com:8880/voby3837/28337929/28940
 TNT SPORTS 7 [英语],http://mohdtv.com:8880/voby3837/28337929/28939
 🐍DAZN体育🐍,#genre#
- DAZN 1 [西班牙语],http://mohdtv.com:8880/voby3837/28337929/2557
- DAZN 2 [西班牙语],http://mohdtv.com:8880/voby3837/28337929/2556
- DAZN 3 [西班牙语],http://mohdtv.com:8880/voby3837/28337929/2555
- DAZN 4 [西班牙语],http://mohdtv.com:8880/voby3837/28337929/2554
- DAZN  1 [德语],http://live.lordstreams.co:8080//832396166/1982148236/434604
- DAZN  2 [德语],http://live.lordstreams.co:8080//832396166/1982148236/434605
+DAZN 1 [西班牙语],http://mohdtv.com:8880/voby3837/28337929/2557
+DAZN 2 [西班牙语],http://mohdtv.com:8880/voby3837/28337929/2556
+DAZN 3 [西班牙语],http://mohdtv.com:8880/voby3837/28337929/2555
+DAZN 4 [西班牙语],http://mohdtv.com:8880/voby3837/28337929/2554
+DAZN  1 [德语],http://live.lordstreams.co:8080//832396166/1982148236/434604
+DAZN  2 [德语],http://live.lordstreams.co:8080//832396166/1982148236/434605
 🦅ESPN体育🦅,#genre#
- ESPN 1 HD [英语],http://152.89.62.76:8880/60mk100012/14668115/3136
- ESPN 2 HD [英语],http://152.89.62.76:8880/60mk100012/14668115/3137
- ESPN News [英语],http://152.89.62.76:8880/60mk100012/14668115/3137
- ESPN U [英语],http://152.89.62.76:8880/60mk100012/14668115/3134
- ESPN 1 4K [英语],http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/301371.m3u8
- ESPN 2 4K [英语],http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/301372.m3u8
- ESPN 3 4K [英语],http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/301373.m3u8
- ESPN 4 4K [英语],http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/301374.m3u8
+ESPN 1 HD [英语],http://152.89.62.76:8880/60mk100012/14668115/3136
+ESPN 2 HD [英语],http://152.89.62.76:8880/60mk100012/14668115/3137
+ESPN News [英语],http://152.89.62.76:8880/60mk100012/14668115/3137
+ESPN U [英语],http://152.89.62.76:8880/60mk100012/14668115/3134
+ESPN 1 4K [英语],http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/301371.m3u8
+ESPN 2 4K [英语],http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/301372.m3u8
+ESPN 3 4K [英语],http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/301373.m3u8
+ESPN 4 4K [英语],http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/301374.m3u8
 ❣️欧洲体育❣️,#genre#
- EUROSPORT 1 [英语],http://152.89.62.76:8880/60mk100012/14668115/2917
- EUROSPORT 2 [英语],http://152.89.62.76:8880/60mk100012/14668115/2916
- EUROSPORT 1 [法语],http://sansat.net:88/uEYdkhJdphpGjQ6/xoOpRvdQVASBDYX/126994
- EUROSPORT 2 [法语],http://xtream.eshost.xyz//Lbs0U2/tFMZlx/6120
- EUROSPORT 1 [西班牙语],http://mohdtv.com:8880/voby3837/28337929/29319
- EUROSPORT 2 [西班牙语],http://mohdtv.com:8880/voby3837/28337929/29318
+EUROSPORT 1 [英语],http://152.89.62.76:8880/60mk100012/14668115/2917
+EUROSPORT 2 [英语],http://152.89.62.76:8880/60mk100012/14668115/2916
+EUROSPORT 1 [法语],http://sansat.net:88/uEYdkhJdphpGjQ6/xoOpRvdQVASBDYX/126994
+EUROSPORT 2 [法语],http://xtream.eshost.xyz//Lbs0U2/tFMZlx/6120
+EUROSPORT 1 [西班牙语],http://mohdtv.com:8880/voby3837/28337929/29319
+EUROSPORT 2 [西班牙语],http://mohdtv.com:8880/voby3837/28337929/29318
 ♻️亚马逊体育♻️,#genre#
 AMAZON PRIME  1 [英语],http://sansat.org:88/npThEesOShvRfhX/D8hoFAbUb3vTgEo/189498
 AMAZON PRIME  2 [英语],http://sansat.org:88/npThEesOShvRfhX/D8hoFAbUb3vTgEo/189499
@@ -354,4 +376,4 @@ AMAZON PRIME  6 [英语],http://sansat.org:88/npThEesOShvRfhX/D8hoFAbUb3vTgEo/18
 AMAZON PRIME  7 [英语],http://sansat.org:88/npThEesOShvRfhX/D8hoFAbUb3vTgEo/189504
 更新时间,#genre#
 2024-08-26,url
-00:22:40,url
+10:18:18,url
