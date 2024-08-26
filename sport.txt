@@ -265,6 +265,22 @@ UK: PPV 2 (仅限比赛期间开播),http://sansat.org:88/npThEesOShvRfhX/D8hoFA
 UK: PPV 3 (仅限比赛期间开播),http://sansat.org:88/npThEesOShvRfhX/D8hoFAbUb3vTgEo/102276
 UK: PPV 4 (仅限比赛期间开播),http://sansat.org:88/npThEesOShvRfhX/D8hoFAbUb3vTgEo/102277
 UK: PPV 6 (仅限比赛期间开播),http://sansat.org:88/npThEesOShvRfhX/D8hoFAbUb3vTgEo/102278
+🍎APPLE+体育 🍎,#genre#
+APPLE+ 1 PPV FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=1316356&extension=ts&play_token=yhhmnC6r1O
+APPLE+ 2 PPV FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=1316354&extension=ts&play_token=q0RGJuN0pZ
+APPLE+ 3 PPV FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=1316352&extension=ts&play_token=4kjuJj4ufx
+APPLE+ 4 PPV FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=1316350&extension=ts&play_token=gxoz1GR0T5
+APPLE+ 5 PPV FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=1316348&extension=ts&play_token=1IlOJbi4h0
+APPLE+ 6 PPV FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=1316346&extension=ts&play_token=5JSuRFGKk6
+APPLE+ 7 PPV FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=1316344&extension=ts&play_token=VcA5NVaGY5
+APPLE+ 8 PPV FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=1316342&extension=ts&play_token=tmyjgj8TMS
+APPLE+ 9 PPV FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=1316340&extension=ts&play_token=xXF73b4t8Q
+APPLE+ 10 PPV FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=1316338&extension=ts&play_token=6B9Nl2nqOC
+APPLE+ 11 PPV FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=1316336&extension=ts&play_token=JG4gYa9UfQ
+APPLE+ 12 PPV FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=1316334&extension=ts&play_token=I9h0EnPAou
+APPLE+ 13 PPV FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=1316332&extension=ts&play_token=xoj8d8Sjmz
+APPLE+ 14 PPV FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=1316330&extension=ts&play_token=Fm1ziMyEQt
+APPLE+ 15 PPV FHD,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=1316328&extension=ts&play_token=odKGA0DIan
 🪂天空体育 𝟙🪂,#genre#
 SKY SPORTS MAIN EVENT,http://sansat.org:88/npThEesOShvRfhX/D8hoFAbUb3vTgEo/102247
 SKY SPORTS F1,http://sansat.org:88/npThEesOShvRfhX/D8hoFAbUb3vTgEo/102252
@@ -376,4 +392,4 @@ AMAZON PRIME  6 [英语],http://sansat.org:88/npThEesOShvRfhX/D8hoFAbUb3vTgEo/18
 AMAZON PRIME  7 [英语],http://sansat.org:88/npThEesOShvRfhX/D8hoFAbUb3vTgEo/189504
 更新时间,#genre#
 2024-08-26,url
-10:37:19,url
+10:48:16,url
