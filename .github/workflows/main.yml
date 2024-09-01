@@ -2,7 +2,8 @@ name: tkty
 
 on:
   schedule:
-    - cron: '*/15 13-17 * * *'
+    - cron: '*/15 12-15 * * *'
+    - cron: '*/15 0-2 * * *'
   push:
     branches:
       - main
