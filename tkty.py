@@ -10,7 +10,7 @@ from datetime import datetime
 
 
 #  获取远程体育直播源文件
-url = "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Cx4x/Cxxx/main/TKTY.m3u"
+url = "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xingzhe010203/xingzhe/main/TKTY.m3u"
 response = requests.get(url)
 m3u_content = response.text
 
