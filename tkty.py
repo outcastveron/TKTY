@@ -27,8 +27,10 @@ output_dict = {}
 for line in m3u_content.split('\n'):
     if line.startswith("#EXTINF"):
         # 获取 group-title 的值
-        group_name = line.split('group-title="')[1].split('"')[0]
-        
+       if 'group-title="' in line:
+          group_name = line.split('group-title="')[1].split('"')[0]
+       else:
+          group_name = None  # or handle the error appropriately
         # 获取频道名
         channel_name = line.split(',')[-1]
     elif line.startswith("http"):
