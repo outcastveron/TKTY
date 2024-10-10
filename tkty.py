@@ -27,15 +27,13 @@ output_dict = {}
 for line in m3u_content.split('\n'):
     if line.startswith("#EXTINF"):
         #  获取分组和频道
-        channel_name = line.split(',')[-1]
-        if 'group-title="' in line:
-        group_name = line.split('group-title="')[1].split('"')[0]
-        channel_name = line.split(',')[-1]
-       else:
-       group_name = None
-       channel_name = None
-
-    elif line.startswith("http"):
+if 'group-title="' in line:
+    group_name = line.split('group-title="')[1].split('"')[0]
+    channel_name = line.split(',')[-1]
+else:
+    group_name = None
+    channel_name = None
+elif line.startswith("http"):
         # 获取频道链接
         channel_link = line
         # 合并频道名和频道链接
