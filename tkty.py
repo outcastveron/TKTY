@@ -8,8 +8,7 @@ import threading
 from queue import Queue
 from datetime import datetime
 
-
-#  获取远程体育直播源文件
+# 获取远程体育直播源文件
 url = "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xingzhe010203/xingzhe/main/TKTY.m3u"
 response = requests.get(url)
 m3u_content = response.text
@@ -26,14 +25,14 @@ output_dict = {}
 # 处理每两行为一组的情况
 for line in m3u_content.split('\n'):
     if line.startswith("#EXTINF"):
-        #  获取分组和频道
-if 'group-title="' in line:
-    group_name = line.split('group-title="')[1].split('"')[0]
-    channel_name = line.split(',')[-1]
-else:
-    group_name = None
-    channel_name = None
-elif line.startswith("http"):
+        # 获取分组和频道
+        if 'group-title="' in line:
+            group_name = line.split('group-title="')[1].split('"')[0]
+            channel_name = line.split(',')[-1]
+        else:
+            group_name = None
+            channel_name = None
+    elif line.startswith("http"):
         # 获取频道链接
         channel_link = line
         # 合并频道名和频道链接
@@ -74,8 +73,6 @@ def txt_to_m3u(input_file, output_file):
         for line in lines:
             line = line.strip()
             if "," in line:  # 防止文件里面缺失“,”号报错
-                # if line:
-                # 检查是否是genre行
                 channel_name, channel_url = line.split(',', 1)
                 if channel_url == '#genre#':
                     genre = channel_name
@@ -84,7 +81,6 @@ def txt_to_m3u(input_file, output_file):
                     # 将频道信息写入m3u文件
                     f.write(f'#EXTINF:-1 group-title="{genre}",{channel_name}\n')
                     f.write(f'{channel_url}\n')
-
 
 # 将txt文件转换为m3u文件
 txt_to_m3u('sport.txt', 'sport.m3u')
