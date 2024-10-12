@@ -117,34 +117,6 @@ ZIGGO SPORT TENNIS ᵁᴴᴰ,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4
 NL | ZIGGO SPORT TENNISʳᵉᶜ,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/89.m3u8
 4K | ZIGGO SPORT TENNIS,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/3070.m3u8
 UK | THE TENNIS CHANNEL,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/187191.m3u8
-央视频道,#genre#
-CCTV-1 综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
-CCTV-2 财经,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000502/index.m3u8?
-CCTV-3 综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8
-CCTV-4 中文国际,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8
-CCTV-5 体育,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
-CCTV-5+ 体育赛事,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8
-CCTV-6 电影,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8
-CCTV-7 国防军事,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225733/index.m3u8
-CCTV-8 电视剧,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8
-CCTV-9 纪录,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8
-CCTV-10 科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226473/index.m3u8
-CCTV-11 戏曲,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8
-CCTV-12 社会与法,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8
-CCTV-13 新闻,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226537/index.m3u8
-CCTV-14 少儿,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8
-CCTV-15 音乐,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8
-CCTV-16 奥林匹克,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8
-CCTV-17 农业农村,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
-CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
-CHC动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
-CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
-CGTN英语,https://0472.org/hls/cgtn.m3u8
-CGTN记录,https://0472.org/hls/cgtnd.m3u8
-CGTN俄语,https://0472.org/hls/cgtne.m3u8
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
-CGTN阿语,https://0472.org/hls/cgtna.m3u8
 🏆咪咕体育-[IPV4]🏆,#genre#
 👉有比赛时才会有画面👈,https://cloud.wujiyan.cc/f/Wk6Hy/1.mp4
 👉请留意赛事直播时间👈,https://cloud.wujiyan.cc/f/Wk6Hy/1.mp4
@@ -212,25 +184,67 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 🏀NBA-原声🏀,#genre#
 👉有比赛时才会有画面👈,https://cloud.wujiyan.cc/f/Wk6Hy/1.mp4
 👉请留意赛事直播时间👈,https://cloud.wujiyan.cc/f/Wk6Hy/1.mp4
-NBA Replay info,http://doubleclicktv.live/70376812/52663544/271542
-NBA Replay Highlights,http://doubleclicktv.live/70376812/52663544/271541
-NBA Replay 1,http://doubleclicktv.live/70376812/52663544/271540
-NBA Replay 2,http://doubleclicktv.live/70376812/52663544/271539
-NBA Replay 3,http://doubleclicktv.live/70376812/52663544/271538
-NBA Replay 4,http://doubleclicktv.live/70376812/52663544/271537
-NBA Replay 5,http://doubleclicktv.live/70376812/52663544/271536
-NBA Replay 6,http://doubleclicktv.live/70376812/52663544/271535
-NBA Replay 7,http://doubleclicktv.live/70376812/52663544/271534
-NBA Replay 8,http://doubleclicktv.live/70376812/52663544/271533
-NBA Replay 9,http://doubleclicktv.live/70376812/52663544/271532
-NBA Replay 10,http://doubleclicktv.live/70376812/52663544/271531
-NBA Replay 11,http://doubleclicktv.live/70376812/52663544/271530
-NBA Replay 12,http://doubleclicktv.live/70376812/52663544/271529
-NBA Replay 13,http://doubleclicktv.live/70376812/52663544/271528
-NBA Replay 14,http://doubleclicktv.live/70376812/52663544/271527
-NBA Replay 15,http://doubleclicktv.live/70376812/52663544/271526
-NBA Replay 16,http://doubleclicktv.live/70376812/52663544/271525
-NBA Replay 17,http://doubleclicktv.live/70376812/52663544/271524
+NBA TV FHD,http://doubleclicktv.live/70376812/52663544/885
+NBA 01 :,http://doubleclicktv.live/70376812/52663544/5438
+NBA 02 :,http://doubleclicktv.live/70376812/52663544/5437
+NBA 03 :,http://doubleclicktv.live/70376812/52663544/5436
+NBA 04 :,http://doubleclicktv.live/70376812/52663544/5435
+NBA 05 :,http://doubleclicktv.live/70376812/52663544/5434
+NBA 06:,http://doubleclicktv.live/70376812/52663544/5433
+NBA 07 :,http://doubleclicktv.live/70376812/52663544/5432
+NBA 08 :,http://doubleclicktv.live/70376812/52663544/5431
+NBA 09:,http://doubleclicktv.live/70376812/52663544/5430
+NBA 10:,http://doubleclicktv.live/70376812/52663544/5429
+NBA 11:,http://doubleclicktv.live/70376812/52663544/5428
+NBA 12:,http://doubleclicktv.live/70376812/52663544/5427
+NBA 13:,http://doubleclicktv.live/70376812/52663544/5426
+NBA 14:,http://doubleclicktv.live/70376812/52663544/5425
+NBA 15:,http://doubleclicktv.live/70376812/52663544/5424
+NBA 16:,http://doubleclicktv.live/70376812/52663544/5423
+NBA 17:,http://doubleclicktv.live/70376812/52663544/5422
+NBA 18:,http://doubleclicktv.live/70376812/52663544/5421
+NBA 19:,http://doubleclicktv.live/70376812/52663544/5420
+NBA 20:,http://doubleclicktv.live/70376812/52663544/5419
+NBA 21:,http://doubleclicktv.live/70376812/52663544/5418
+USA Real NBA 22:,http://doubleclicktv.live/70376812/52663544/5417
+USA Real NBA 23:,http://doubleclicktv.live/70376812/52663544/5416
+USA Real NBA 24:,http://doubleclicktv.live/70376812/52663544/5415
+USA Real NBA 25:,http://doubleclicktv.live/70376812/52663544/5414
+USA Real NBA 26:,http://doubleclicktv.live/70376812/52663544/5413
+USA Real NBA 27:,http://doubleclicktv.live/70376812/52663544/5412
+USA Real NBA 28:,http://doubleclicktv.live/70376812/52663544/5411
+USA Real NBA 29:,http://doubleclicktv.live/70376812/52663544/5410
+USA Real NBA 30:,http://doubleclicktv.live/70376812/52663544/5409
+USA Real NBA 31:,http://doubleclicktv.live/70376812/52663544/5408
+USA Real NBA 32:,http://doubleclicktv.live/70376812/52663544/5407
+USA Real NBA 33:,http://doubleclicktv.live/70376812/52663544/5406
+USA Real NBA 34:,http://doubleclicktv.live/70376812/52663544/5405
+USA Real NBA 35:,http://doubleclicktv.live/70376812/52663544/5404
+USA Real NBA 36:,http://doubleclicktv.live/70376812/52663544/5403
+USA Real NBA 37:,http://doubleclicktv.live/70376812/52663544/5402
+USA Real NBA 38:,http://doubleclicktv.live/70376812/52663544/5401
+USA Real NBA 39:,http://doubleclicktv.live/70376812/52663544/5400
+USA Real NBA 40:,http://doubleclicktv.live/70376812/52663544/5399
+USA Real NBA 41:,http://doubleclicktv.live/70376812/52663544/5398
+USA Real NBA 42:,http://doubleclicktv.live/70376812/52663544/5397
+USA Real NBA 43:,http://doubleclicktv.live/70376812/52663544/5396
+USA Real NBA 44:,http://doubleclicktv.live/70376812/52663544/5395
+USA Real NBA 45:,http://doubleclicktv.live/70376812/52663544/5394
+USA Real NBA 46:,http://doubleclicktv.live/70376812/52663544/5393
+USA Real NBA 47:,http://doubleclicktv.live/70376812/52663544/5392
+USA Real NBA 48:,http://doubleclicktv.live/70376812/52663544/5391
+USA Real NBA 49:,http://doubleclicktv.live/70376812/52663544/5390
+USA Real NBA 50:,http://doubleclicktv.live/70376812/52663544/5389
+USA Real NBA 51:,http://doubleclicktv.live/70376812/52663544/5388
+USA Real NBA 52:,http://doubleclicktv.live/70376812/52663544/5387
+USA Real NBA 53:,http://doubleclicktv.live/70376812/52663544/5386
+USA Real NBA 54:,http://doubleclicktv.live/70376812/52663544/5385
+USA Real NBA 55:,http://doubleclicktv.live/70376812/52663544/5384
+USA Real NBA 56:,http://doubleclicktv.live/70376812/52663544/5383
+USA Real NBA 57:,http://doubleclicktv.live/70376812/52663544/5382
+USA Real NBA 58:,http://doubleclicktv.live/70376812/52663544/5381
+USA Real NBA 59:,http://doubleclicktv.live/70376812/52663544/5380
+USA Real NBA 60:,http://doubleclicktv.live/70376812/52663544/5379
 ⚽️英超联赛⚽️,#genre#
 👉有比赛时才会有画面👈,https://cloud.wujiyan.cc/f/Wk6Hy/1.mp4
 👉请留意赛事直播时间👈,https://cloud.wujiyan.cc/f/Wk6Hy/1.mp4
@@ -815,4 +829,4 @@ UK197:PREMIER SPORTS 1,http://mohdtv.com:8880//voby3837/28337929/28862
 UK198:PREMIER SPORTS 2,http://mohdtv.com:8880//voby3837/28337929/28861
 更新时间,#genre#
 2024-10-12,url
-13:46:14,url
+14:05:24,url
