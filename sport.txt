@@ -829,4 +829,4 @@ UK197:PREMIER SPORTS 1,http://mohdtv.com:8880//voby3837/28337929/28862
 UK198:PREMIER SPORTS 2,http://mohdtv.com:8880//voby3837/28337929/28861
 更新时间,#genre#
 2024-10-14,url
-03:42:50,url
+03:51:29,url
