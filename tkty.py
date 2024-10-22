@@ -44,7 +44,7 @@ urls = [
 ]
 
 # 关键字列表
-keywords = ["订阅问客服", "央视卫视"]
+keywords = ["售后微", "微信", "链接"]
 
 # 合并并保存
 merged_content = merge_m3u(urls, keywords)
