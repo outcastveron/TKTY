@@ -48,7 +48,7 @@ keywords = ["售后微", "微信", "链接"]
 
 # 合并并保存
 merged_content = merge_m3u(urls, keywords)
-save_to_file(merged_content, "merged_sport.m3u")
+save_to_file(merged_content, "tkty.m3u")
 
 # 添加更新时间
 with open("merged_sport.m3u", "a", encoding="utf-8") as file:
@@ -56,4 +56,4 @@ with open("merged_sport.m3u", "a", encoding="utf-8") as file:
     file.write(f"# 更新日期: {now.strftime('%Y-%m-%d')}\n")
     file.write(f"# 更新时间: {now.strftime('%H:%M:%S')}\n")
 
-print("任务运行完毕，合并后的m3u文件已保存为 merged_sport.m3u")
+print("任务运行完毕，合并后的m3u文件已保存为 tkty.m3u")
