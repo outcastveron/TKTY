@@ -51,7 +51,7 @@ merged_content = merge_m3u(urls, keywords)
 save_to_file(merged_content, "tkty.m3u")
 
 # 添加更新时间
-with open("merged_sport.m3u", "a", encoding="utf-8") as file:
+with open("tkty.m3u", "a", encoding="utf-8") as file:
     now = datetime.now()
     file.write(f"# 更新日期: {now.strftime('%Y-%m-%d')}\n")
     file.write(f"# 更新时间: {now.strftime('%H:%M:%S')}\n")
