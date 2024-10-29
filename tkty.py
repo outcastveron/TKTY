@@ -37,9 +37,7 @@ def save_to_file(content, filename):
 
 # 示例URL列表
 urls = [
-    "https://raw.githubusercontent.com/xingzhe010203/xingzhe/main/TKTY.m3u",
-    "https://raw.githubusercontent.com/xingzhe010203/xingzhe/main/IOS-V4.m3u",
-    "https://raw.githubusercontent.com/xingzhe010203/xingzhe/main/IOS-V6.m3u",
+    "https://raw.githubusercontent.com/zhzebe/TV/main/v4.m3u",
     # 添加更多URL
 ]
 
