@@ -102,7 +102,19 @@ https://tvpull.careryun.com/live/ballbar_16220.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE Saudi Arabia United", Al-Shabab VS Al-Riyadh {22:05 WIB -  00:05 WIB}  {2025-01-15}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_16490.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE Saudi Arabia United", Damac FC VS Al-Ettifaq {22:30 WIB -  00:30 WIB}  {2025-01-15}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_22890.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE Crow A2",  {22:30 WIB -  00:30 WIB}  {2025-01-15}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_12490.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE Russian VHL", KHIMIK VS Magnitka Magnitogorsk {22:30 WIB -  01:00 WIB}  {2025-01-15}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_22590.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE Belarus Ice Hockey Federation", Novopolotsk VS Lida {22:30 WIB -  01:00 WIB}  {2025-01-15}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_25740.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE Serie B", Urania Porta Milano VS PMS Torino {02:30 WIB -  05:00 WIB}  {2025-01-16}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_32670.m3u8# 更新日期: 2025-01-15
-# 更新时间: 15:08:02
+# 更新时间: 15:26:43
