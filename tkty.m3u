@@ -9,39 +9,9 @@ https://tvpull.careryun.com/live/ballbar_05800.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE badminton tour", India Open - Court 3 {10:30 WIB -  22:30 WIB}  {2025-01-15}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_14710.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE KHL", Novosibirsk VS Tractor Chelyabinsk {19:30 WIB -  22:00 WIB}  {2025-01-15}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_35850.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE club friendship", Sparta Praha VS Bodo Glimt {20:00 WIB -  22:00 WIB}  {2025-01-15}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_32350.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE Ba Shengjia", Oeste VS XV de Piracicaba {20:00 WIB -  22:00 WIB}  {2025-01-15}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_20890.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE Ba Shengjia", Oeste VS XV de Piracicaba {20:00 WIB -  22:00 WIB}  {2025-01-15}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_26380.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE Indonesia United", Bali United VS Hangtuah Sumsel IM {20:00 WIB -  22:30 WIB}  {2025-01-15}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_31120.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE Russian Basketball Super League", Temp Sumz Revda VS Tambov {20:00 WIB -  22:30 WIB}  {2025-01-15}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_17250.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE snooker",  {20:00 WIB -  06:00 WIB}  {2025-01-15}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_19870.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE snooker",  {20:00 WIB -  22:00 WIB}  {2025-01-15}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_33280.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE UAE Super League", Ajman v Al Ain {20:05 WIB -  22:05 WIB}  {2025-01-15}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_36190.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE Oman A",  {20:05 WIB -  22:05 WIB}  {2025-01-15}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_35140.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE Oman A",  {20:05 WIB -  22:05 WIB}  {2025-01-15}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_35610.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE ITTF",  {20:30 WIB -  00:30 WIB}  {2025-01-15}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_15110.m3u8
@@ -99,7 +69,40 @@ https://tvpull.careryun.com/live/ballbar_12270.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE Kuwait United", Khaitan VS Al-Nasar {21:40 WIB -  23:40 WIB}  {2025-01-15}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_21480.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE Belarus Ice Hockey Federation", Gomel VS Baranavichy {21:55 WIB -  00:25 WIB}  {2025-01-15}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_17010.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE club friendship",  {22:00 WIB -  00:00 WIB}  {2025-01-15}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_35000.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE club friendship", Slavia Praha VS Rakow Czestochowa {22:00 WIB -  00:00 WIB}  {2025-01-15}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_23950.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE Portuguese second division A", SC Covilha VS SC Lusitania {22:00 WIB -  00:00 WIB}  {2025-01-15}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_10160.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE Portugal U23", Benfica U23 VS Gil Vicente U23 {22:00 WIB -  00:00 WIB}  {2025-01-15}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_09470.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE VTB cup", Avtodor Saratov VS Uralmash Ekaterinbur {22:00 WIB -  00:30 WIB}  {2025-01-15}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_29670.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE Russian Basketball Super League", Rodniki Izhe VS k VS CSKA Moscow 2 {22:00 WIB -  00:30 WIB}  {2025-01-15}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_18760.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE Kazakh United", Irbis Almaty VS Pavlodar {22:00 WIB -  00:30 WIB}  {2025-01-15}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_33470.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE Native girl cup", Emlak Konut Gelisim (W) VS Turgutlu (W) {22:00 WIB -  00:30 WIB}  {2025-01-15}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_16020.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE Native girl cup", Fenerbahce Gelisim (W) VS J {22:00 WIB -  00:30 WIB}  {2025-01-15}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_16220.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE Saudi Arabia United", Al-Shabab VS Al-Riyadh {22:05 WIB -  00:05 WIB}  {2025-01-15}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_16490.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE Serie B", Urania Porta Milano VS PMS Torino {02:30 WIB -  05:00 WIB}  {2025-01-16}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_32670.m3u8# 更新日期: 2025-01-15
-# 更新时间: 14:45:59
+# 更新时间: 15:08:02
