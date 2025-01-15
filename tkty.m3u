@@ -9,21 +9,6 @@ https://tvpull.careryun.com/live/ballbar_05800.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE badminton tour", India Open - Court 3 {10:30 WIB -  22:30 WIB}  {2025-01-15}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_14710.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE Central Taiwan TPBL", Kaohsiung Aquas VS Taipei Taishin Mars {18:00 WIB -  20:30 WIB}  {2025-01-15}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_25260.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE Russian Basketball Super League", Irkutsk VS Dynamo Magnitogorsk {18:10 WIB -  20:40 WIB}  {2025-01-15}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_23200.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE Iraq United", Al Talaba VS Arbil {18:30 WIB -  20:30 WIB}  {2025-01-15}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_40590.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE Provincial and Hong Kong Cup", guangdong VS Hong Kong {18:30 WIB -  20:30 WIB}  {2025-01-15}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_11190.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE Provincial and Hong Kong Cup", guangdong VS Hong Kong {18:30 WIB -  20:30 WIB}  {2025-01-15}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_31090.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE WCBA", Guangdong Vermilion Birds (W) VS SiChuan YuanDa (W) {18:30 WIB -  21:00 WIB}  {2025-01-15}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_21140.m3u8
@@ -147,22 +132,19 @@ https://tvpull.careryun.com/live/ballbar_36190.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE Oman A",  {20:05 WIB -  22:05 WIB}  {2025-01-15}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_35140.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE é¿æ¼ç²",  {20:05 WIB -  22:05 WIB}  {2025-01-15}
+#EXTINF:-1 tvg-id="" group-title="LIVE Oman A",  {20:05 WIB -  22:05 WIB}  {2025-01-15}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_35610.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE å½é
-ä¹è",  {20:30 WIB -  00:30 WIB}  {2025-01-15}
+#EXTINF:-1 tvg-id="" group-title="LIVE ITTF",  {20:30 WIB -  00:30 WIB}  {2025-01-15}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_15110.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE å½é
-ä¹è",  {20:30 WIB -  00:30 WIB}  {2025-01-15}
+#EXTINF:-1 tvg-id="" group-title="LIVE ITTF",  {20:30 WIB -  00:30 WIB}  {2025-01-15}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_14950.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE å½é
-ä¹è",  {20:30 WIB -  22:30 WIB}  {2025-01-15}
+#EXTINF:-1 tvg-id="" group-title="LIVE ITTF",  {20:30 WIB -  22:30 WIB}  {2025-01-15}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_18360.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE æç¯®ä¹", Urania Porta Milano VS PMS Torino {02:30 WIB -  05:00 WIB}  {2025-01-16}
+#EXTINF:-1 tvg-id="" group-title="LIVE Serie B", Urania Porta Milano VS PMS Torino {02:30 WIB -  05:00 WIB}  {2025-01-16}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_32670.m3u8# 更新日期: 2025-01-15
-# 更新时间: 13:29:38
+# 更新时间: 13:38:09
