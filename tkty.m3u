@@ -24,9 +24,6 @@ https://tvpull.careryun.com/live/ballbar_14320.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE East Asian Super League", San Miguel Beermen VS Hong Kong Eastern {19:10 WIB -  21:40 WIB}  {2025-01-15}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_31410.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE Russian Basketball Super League", BC Novosibirsk VS Zenit-2 St.Petersburg {19:30 WIB -  22:00 WIB}  {2025-01-15}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvpull.careryun.com/live/ballbar_22740.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE KHL", Novosibirsk VS Tractor Chelyabinsk {19:30 WIB -  22:00 WIB}  {2025-01-15}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_35850.m3u8
@@ -108,7 +105,13 @@ https://tvpull.careryun.com/live/ballbar_31960.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE KHL", Salavat Ufa VS Niznekamsk {21:00 WIB -  23:30 WIB}  {2025-01-15}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_33340.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE VTB cup", Parma Perm VS Enisey Krasnoyarsk {21:30 WIB -  00:00 WIB}  {2025-01-15}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_32730.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE Russian Women's Basketball League B",  {21:30 WIB -  23:30 WIB}  {2025-01-15}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_12270.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE Serie B", Urania Porta Milano VS PMS Torino {02:30 WIB -  05:00 WIB}  {2025-01-16}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_32670.m3u8# 更新日期: 2025-01-15
-# 更新时间: 14:07:25
+# 更新时间: 14:27:55
