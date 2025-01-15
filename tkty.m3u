@@ -78,7 +78,7 @@ https://tvpull.careryun.com/live/ballbar_29670.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE Russian Basketball Super League", Rodniki Izhe VS k VS CSKA Moscow 2 {22:00 WIB -  00:30 WIB}  {2025-01-15}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_18760.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE Kazakh United", Irbis Almaty VS Pavlodar {22:00 WIB -  00:30 WIB}  {2025-01-15}
+#EXTINF:-1 tvg-id="" group-title="LIVE kazakhstan united", Irbis Almaty VS Pavlodar {22:00 WIB -  00:30 WIB}  {2025-01-15}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_33470.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE Native girl cup", Emlak Konut Gelisim (W) VS Turgutlu (W) {22:00 WIB -  00:30 WIB}  {2025-01-15}
@@ -102,7 +102,10 @@ https://tvpull.careryun.com/live/ballbar_22590.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE Belarus Ice Hockey Federation", Novopolotsk VS Lida {22:30 WIB -  01:00 WIB}  {2025-01-15}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_25740.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE Mali A", Binga VS Real Bamako {22:45 WIB -  00:45 WIB}  {2025-01-15}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvpull.careryun.com/live/ballbar_38920.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE Serie B", Urania Porta Milano VS PMS Torino {02:30 WIB -  05:00 WIB}  {2025-01-16}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvpull.careryun.com/live/ballbar_32670.m3u8# 更新日期: 2025-01-15
-# 更新时间: 15:35:12
+# 更新时间: 15:45:57
